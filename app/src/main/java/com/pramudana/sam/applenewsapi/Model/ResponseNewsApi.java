@@ -1,10 +1,8 @@
 package com.pramudana.sam.applenewsapi.Model;
 
 import java.util.List;
-import javax.annotation.Generated;
 import com.google.gson.annotations.SerializedName;
 
-@Generated("com.robohorse.robopojogenerator")
 public class ResponseNewsApi{
 
 	@SerializedName("totalResults")
