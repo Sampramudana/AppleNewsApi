@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 
 public class InstanceRetrofit {
-    private static final String Weburl = "http://muslimsalat.com/tangerang/";
+    private static final String Weburl = "https://newsapi.org/v2/";
 
     private static Retrofit setInit() {
         return new Retrofit.Builder()
